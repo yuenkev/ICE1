@@ -13,6 +13,8 @@ public class CardDealer
 {
     public static void main(String[] args)
     {
+        //Hello Hello, this is for my ICE 1 In-Class Exercise
+        //My name is Kevin Yuen (Student Number: 991652450)
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
     }
