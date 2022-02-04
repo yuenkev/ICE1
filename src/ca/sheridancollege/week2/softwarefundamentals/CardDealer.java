@@ -21,5 +21,9 @@ public class CardDealer
         
         //3. Creating an object of the Card Class
         Card c1 = new Card("Diamond", 10);
+        
+        //5. Printing Card Suit + Value
+        System.out.println("Your card suit is: " + c1.getSuit());
+        System.out.println("Your card value is: " + c1.getValue());
     }
 }
